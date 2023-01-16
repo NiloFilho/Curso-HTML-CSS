@@ -1,5 +1,5 @@
 body {
-    background-image: url(imagens/wallpaper001.jpg);
+    background-image: url(../imagens/wallpaper001.jpg);
 }
 .quadrado {
     border: 1px solid black;
@@ -18,5 +18,5 @@ body {
 }
 
 #q3{
-    background-image: url(imagens/pattern003.png);
+    background-image: url(../imagens/pattern003.png);
 }
